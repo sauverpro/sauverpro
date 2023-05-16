@@ -13,7 +13,9 @@
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=sauverpro&style=flat-square&color=blue" alt=""/>
-  
+  <a href="https://github.com/sauverpro?tab=followers">
+        <img src="https://img.shields.io/github/followers/sauverpro?label=Followers&style=social" alt="GitHub Badge">
+    </a>
   <h1>
   Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I am Jean Sauveur TUYIZERE
 </h1>
@@ -52,10 +54,33 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sauverpro&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sauverpro&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sauverpro&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
+## <h2 align="center"> :fire: My Github Stats</h2>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sauverpro&theme=dark)](https://git.io/streak-stats)
+<p>
+  <img
+    align="left"
+    width="51%"
+    alt="My Stats"
+    src="https://github-readme-stats.vercel.app/api?username=sauverpro&show_icons=true&theme=radical"
+  />
+  <img
+    width="45%"
+    alt="Top langs"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauverpro&show_icons=true&theme=dark&layout=compact"
+  />
+</p>
+
+<p>
+  <img
+    width="50%"
+    height="200"
+    alt="GitHub Streak Stats"
+    src="https://github-profile-trophy.vercel.app/?username=sauverpro&theme=radical&no-frame=true&column=3&row=2"
+  />
+  
+</p>
 ---
 
 ### :writing_hand: Blog Posts :
